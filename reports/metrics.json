@@ -1,0 +1,23 @@
+{
+  "best_model": "Logistic Regression",
+  "threshold": 0.6088,
+  "test": {
+    "threshold": 0.6088,
+    "precision": 0.8607,
+    "recall": 0.8203,
+    "f1": 0.84,
+    "roc_auc": 0.9932,
+    "pr_auc": 0.9268
+  },
+  "confusion_matrix": {
+    "true_real_pred_real": 2473,
+    "true_real_pred_fake": 17,
+    "true_fake_pred_real": 23,
+    "true_fake_pred_fake": 105
+  },
+  "split_sizes": {
+    "train": 12215,
+    "validation": 2617,
+    "test": 2618
+  }
+}

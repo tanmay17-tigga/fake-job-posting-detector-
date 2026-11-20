@@ -1,0 +1,4 @@
+model,f1_at_0.5,val_threshold,val_precision,val_recall,val_f1,val_roc_auc,val_pr_auc
+Logistic Regression,0.8765,0.6088,0.9474,0.8438,0.8926,0.9933,0.9318
+Random Forest,0.7264,0.2933,0.8522,0.7656,0.8066,0.9893,0.8886
+Naive Bayes,0.7951,0.5175,0.8509,0.7578,0.8017,0.9826,0.8523
