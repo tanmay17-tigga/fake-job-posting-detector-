@@ -5,6 +5,9 @@ It uses TF-IDF text features plus simple signals (company logo, company profile,
 questions) and compares three models. The best one (Logistic Regression) is served in a
 Streamlit web app.
 
+## Live app link
+https://ln8zn5qgmfbzilqutnbf9m.streamlit.app/
+
 ## Results (test set, 2,618 ads the model never saw)
 
 | Metric | Score |
